@@ -1,0 +1,12 @@
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\bin\Debug\VisualYuzuUpdater.exe.config
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\bin\Debug\VisualYuzuUpdater.exe
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\bin\Debug\VisualYuzuUpdater.pdb
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.csprojAssemblyReference.cache
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.Form1.resources
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.Properties.Resources.resources
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.csproj.GenerateResource.cache
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.exe
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.pdb
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\bin\Debug\SharpCompress.dll
+C:\Users\Daniele\source\repos\VisualYuzuUpdater\VisualYuzuUpdater\obj\Debug\VisualYuzuUpdater.csproj.CopyComplete
